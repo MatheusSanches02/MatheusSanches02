@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Sanches
 
 - 🔭 Hoje faço estágio de desenvolvimento web 
-- 🌱 Estudando JavaScript e suas tecnologias / 2º semestre de Análise e desenvolvimento de sistemas
+- 🌱 2º semestre de Análise e desenvolvimento de sistemas / Foco em back-end com C# e Java
 - 👯 Colaborar com meus pequenos projetos e atividades da faculdade
 - 🤔 Sempre olhando códigos back-end e front-end de diversos projetos
 - 😄 Pronomes: Ele/dele
