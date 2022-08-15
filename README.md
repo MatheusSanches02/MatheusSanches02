@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Matheus Sanches
 
-- 🔭 Hoje faço estágio de desenvolvimento web 
+- 🔭 Analista Desenvolvedor Full-Stack junior
 - 🌱 2º semestre de Análise e desenvolvimento de sistemas / Foco em back-end com C# e Java
 - 👯 Colaborar com meus pequenos projetos e atividades da faculdade
 - 🤔 Sempre olhando códigos back-end e front-end de diversos projetos
@@ -8,8 +8,8 @@
 
 <div>
   <a href="https://github.com/MatheusSanches02">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusSanches02&show_icons=true&theme=dark&include_all_commits=true&count_private=true PAT_1"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSanches02&layout=compact&langs_count=7&theme=dark PAT_1"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=MatheusSanches02&show_icons=true&theme=radical&include_all_commits=true&count_private=true PAT_1"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSanches02&layout=compact&langs_count=8&theme=radical PAT_1"/>
 </div>
   
  <div style="display: inline_block"><br>
