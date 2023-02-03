@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Matheus Sanches
 
 - 🔭 Analista Desenvolvedor Full-Stack junior
-- 🌱 2º semestre de Análise e desenvolvimento de sistemas / Foco em back-end com C# e Java
+- 🌱 Formado em Análise e desenvolvimento de sistemas pela FIAP 
 - 👯 Colaborar com meus pequenos projetos e atividades da faculdade
 - 🤔 Sempre olhando códigos back-end e front-end de diversos projetos
 - 😄 Pronomes: Ele/dele
