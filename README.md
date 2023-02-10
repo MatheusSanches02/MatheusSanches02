@@ -4,7 +4,6 @@
 - 🌱 Formado em Análise e desenvolvimento de sistemas pela FIAP 
 - 👯 Colaborar com meus pequenos projetos e atividades da faculdade
 - 🤔 Sempre olhando códigos back-end e front-end de diversos projetos
-- 😄 Pronomes: Ele/dele
 
 <div>
   <a href="https://github.com/MatheusSanches02">
