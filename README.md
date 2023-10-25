@@ -1,9 +1,7 @@
 ## Olá! Eu sou o Matheus Sanches
 
-- 🔭 Analista Desenvolvedor Full-Stack junior
+- 🔭 Analista Desenvolvedor Full-Stack C# - .Net / TypeScript - React
 - 🌱 Formado em Análise e desenvolvimento de sistemas pela FIAP 
-- 👯 Colaborar com meus pequenos projetos e atividades da faculdade
-- 🤔 Sempre olhando códigos back-end e front-end de diversos projetos
 
 <div>
   <a href="https://github.com/MatheusSanches02">
